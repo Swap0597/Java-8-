@@ -23,7 +23,7 @@ public class LambdaExp1 {
 
         // properties
         // 1. if body contains only one line then no need to write {}
-        // 2. sometimes compiles can guess argument datatype then we do not have to write data type
+        // 2. sometimes compiler can guess argument datatype then we do not have to write data type
         // 3. if single argument is present then no need to write ()
         // 4. if {} are not written then we can not use return keyword
     }

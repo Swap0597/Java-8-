@@ -13,6 +13,9 @@ public interface Interf {
     default void play(){
         System.out.println("play");
     }
+    default void play1(){
+        System.out.println("play");
+    }
 
     // Interface can have any number of static method
     public static void playGames(){}
